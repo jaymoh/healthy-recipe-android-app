@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Healthy Recipe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_recipe">Add New Recipe</string>
+    <array name="recipe_category">
+        <item>Bread</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Soup</item>
+    </array>
+    <string name="title_activity_display">View Recipe</string>
+</resources>
